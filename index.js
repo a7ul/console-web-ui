@@ -34,7 +34,9 @@ app.use('*', (req, res, next) => {
   const userAgent = req.headers['user-agent'];
   if (util.isCommandline(userAgent)) {
     return res.send(`
-    Hint: curl http://localhost:3000/anime-hello
+    Hit: curl http://localhost:3000/anime-hello
+    or
+    Hit: curl https://console-web-ui.herokuapp.com/anime-hello
 
     Possible routes: 
     /hello - Gives a nice and simple hello
