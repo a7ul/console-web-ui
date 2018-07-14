@@ -1,0 +1,11 @@
+.green-text{
+  color: lightgreen;
+}
+.red-text{
+  color: red;
+}
+
+body {
+  color: white;
+  background: black;
+}

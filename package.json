@@ -1,0 +1,32 @@
+{
+  "name": "console-web-uis",
+  "version": "1.0.0",
+  "description": "Examples to show case how to build web based UI (that can be invoked using curl) for console applications using Javascript(NodeJS).",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js",
+    "start": "pm2-runtime start ecosystem.config.js --env production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "ansi-styles": "^3.2.1",
+    "express": "^4.16.3",
+    "pm2": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "nodemon": "^1.17.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/master-atul/console-web-uis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/master-atul/console-web-uis/issues"
+  },
+  "homepage": "https://github.com/master-atul/console-web-uis#readme",
+  "author": "atulanand94@gmail.com"
+}
