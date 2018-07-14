@@ -1,5 +1,5 @@
 {
-  "name": "console-web-uis",
+  "name": "console-web-ui",
   "version": "1.0.0",
   "description": "Examples to show case how to build web based UI (that can be invoked using curl) for console applications using Javascript(NodeJS).",
   "main": "index.js",
@@ -22,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/master-atul/console-web-uis.git"
+    "url": "git+https://github.com/master-atul/console-web-ui.git"
   },
   "bugs": {
-    "url": "https://github.com/master-atul/console-web-uis/issues"
+    "url": "https://github.com/master-atul/console-web-ui/issues"
   },
-  "homepage": "https://github.com/master-atul/console-web-uis#readme",
+  "homepage": "https://github.com/master-atul/console-web-ui#readme",
   "author": "atulanand94@gmail.com"
 }

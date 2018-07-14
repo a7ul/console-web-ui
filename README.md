@@ -1,8 +1,14 @@
-# console-web-uis
+# console-web-ui
 
 Examples to show case how to build web based UI (that can be invoked using curl) for console applications using Javascript(NodeJS).
 
-Blog post: <coming soon>
+Blog post: `<coming soon>`
+
+# Demo version:
+
+It is hosted on heroku here:
+
+https://console-web-ui.herokuapp.com/
 
 
 # To run locally:
@@ -31,3 +37,10 @@ or
 or
 
 `wget -q -O - http://localhost:3000/anime-hello/`
+
+-------------------
+
+
+**Also, you can check out my other console web service here:** 
+
+(http://byemck.atulr.com)[http://byemck.atulr.com]
