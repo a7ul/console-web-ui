@@ -2,7 +2,7 @@
 
 Examples to show case how to build web based UI (that can be invoked using curl) for console applications using Javascript(NodeJS).
 
-Blog post: `<coming soon>`
+Blog post: `https://medium.com/@atulanand94/building-web-based-uis-for-terminals-using-javascript-60b5eee31213`
 
 # Demo version:
 
